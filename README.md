@@ -18,6 +18,6 @@ This repository serves as a central access point for all challenges provided by 
 
 This repository contains a soil classification project using image data and machine learning techniques. This project is built under the Annam AI Soil Challenge hosted on Kaggle platform.
 
-- Challenge 2: [Soil Classification - Part 2](https://github.com/YeshwanthrajG/Soil-Image-Binary-Classification.git) 
+- Challenge 2 : [Soil Classification - Part 2](https://github.com/YeshwanthrajG/Soil-Image-Binary-Classification.git) 
 
 This project is a deep learning-based soil image classification system that uses Convolutional Neural Networks (CNNs) to identify different types of soil from image data. Accurate classification of soil types can aid precision agriculture and improve crop productivity.
